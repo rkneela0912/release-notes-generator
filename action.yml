@@ -1,0 +1,12 @@
+name: 'release notes generator'
+description: '📝 Generate beautiful release notes from PRs between tags'
+author: 'rkneela0912'
+inputs:
+  github_token:
+    required: true
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
+branding:
+  icon: 'check'
+  color: 'blue'
