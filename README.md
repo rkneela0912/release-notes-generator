@@ -46,3 +46,7 @@ jobs:
 ⭐ Star this repo if you find it helpful!
 
 For issues, [open an issue](https://github.com/rkneela0912/release-notes-generator/issues).
+
+## 💡 📝 Beautiful release notes
+
+Make your workflow more efficient with automation!
